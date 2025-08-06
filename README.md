@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Ahmet Efe Ersoy.
 
-🎓 I graduated from TED University's Software Engineering Department (100% English) with high honors and a 3.56 GPA.
-💼 I successfully completed and delivered the LLM-based AI-powered technology management platform I developed as part of the TUSAŞ Lift-Up Program.
-🤖 I am passionate about Artificial Intelligence, Large Language Models (LLMs), Agentic Systems, and Backend Development.
+🎓 I graduated from TED University's Software Engineering Department (100% English) with high honors and a 3.56 GPA.  
+💼 I successfully completed and delivered the LLM-based AI-powered technology management platform I developed as part of the TUSAŞ Lift-Up Program.  
+🤖 I am passionate about Artificial Intelligence, Large Language Models (LLMs), Agentic Systems, and Backend Development.  
 📍 I can live in Ankara and Kocaeli.
 
 ---
