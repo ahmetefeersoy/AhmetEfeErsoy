@@ -1,63 +1,63 @@
-# 👋 Merhaba, ben Ahmet Efe Ersoy
+# 👋 Hello, I'm Ahmet Efe Ersoy.
 
-🎓 TED Üniversitesi Yazılım Mühendisliği (%100 İngilizce) bölümünden 3.56 GPA ile yüksek onur derecesiyle mezun oldum.  
-💼 TUSAŞ Lift-Up Programı kapsamında geliştirdiğim LLM tabanlı yapay zekâ destekli teknoloji yönetim platformunu başarıyla tamamlayıp teslim ettim.  
-🤖 Yapay Zeka, Büyük Dil Modelleri (LLMs), Agentic Sistemler ve Backend Development alanlarına tutkuyla bağlıyım.  
-📍 Ankara ve Kocaeli’de ikamet edebilirim.
+🎓 I graduated from TED University's Software Engineering Department (100% English) with high honors and a 3.56 GPA.
+💼 I successfully completed and delivered the LLM-based AI-powered technology management platform I developed as part of the TUSAŞ Lift-Up Program.
+🤖 I am passionate about Artificial Intelligence, Large Language Models (LLMs), Agentic Systems, and Backend Development.
+📍 I can live in Ankara and Kocaeli.
 
 ---
 
-## 🚀 İlgi Alanlarım  
+## 🚀 My Interests
 - Backend Development
-- Full stack Development   
-- Büyük Dil Modelleri (LLMs) & Yapay Zeka Geliştirme  
-- Agentic Sistemler  
-- Makine Öğrenmesi & Derin Öğrenme  
-- Doğal Dil İşleme (NLP)  
+- Full-stack Development
+- Large Language Models (LLMs) & Artificial Intelligence Development
+- Agentic Systems
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar  
-- **Programlama Dilleri:** Python, Java, C#, JavaScript  
-- **Framework & Platformlar:** .NET, React, Node.js  
-- **Veritabanları:** SQL (MySQL, PostgreSQL vb.), NoSQL (MongoDB vb.)  
-- **Diğer:** Docker, AWS (S3), Git, GitHub  
+## 🛠️ Technologies & Tools
+- **Programming Languages:** Python, Java, C#, JavaScript
+- **Framework & Platforms:** .NET, React, Node.js
+- **Databases:** SQL (MySQL, PostgreSQL, etc.), NoSQL (MongoDB, etc.)
+- **Other:** Docker, AWS (S3), Git, GitHub
 
 ---
 
-## 📌 Öne Çıkan Projeler  
+## 📌 Featured Projects
 
-### VoCal – AI-Powered Voice Appointment Assistant  
-Python ile modüler bir sesli asistan geliştirdim. Doğal konuşmadan randevu planlamayı sağlıyor; tarih, saat, hizmet gibi anahtar bilgileri çıkarıyor ve sesli geri bildirimle takvime kaydediyor. Sağlık, lojistik ve bakım gibi farklı alanlara kolayca uyarlanabilir.
+### VoCal – AI-Powered Voice Appointment Assistant
+I developed a modular voice assistant in Python. It enables appointment scheduling using natural language, extracts key information such as date, time, and service, and saves it to the calendar with spoken feedback. It can be easily adapted to various fields such as healthcare, logistics, and maintenance.
 
-### Artificial Intelligence Supported Technology Management Platform  
-Türk Havacılık ve Uzay Sanayii (TUSAŞ) Lift-Up programı kapsamında geliştirdiğim bitirme projesi. React.js ve Node.js ile geliştirilmiş platformda kullanıcılar teknoloji ekleyip puanlayabiliyor, infografikler ile veri görselleştirme yapılıyor. Yapay zeka, LLM ve NLP kullanılarak ilgili web yayınları filtrelenip sunuluyor.
+### Artificial Intelligence Supported Technology Management Platform
+This is my graduation project developed as part of the Turkish Aerospace Industries (TUSAŞ) Lift-Up program. The platform, developed with React.js and Node.js, allows users to add and rate technologies, and generate data visualization with infographics. Relevant web publications are filtered and presented using AI, LLM, and NLP.
 
-### Finance Copilot – AI-Powered Personal Finance Assistant  
-Node.js, Python ve Google Gemini LLM ile geliştirilmiş finansal asistan. Banka hesap dökümlerini (PDF, görsel) analiz edip işlemleri sınıflandırıyor, harcama görselleştirmesi yapıyor. React.js dashboard ile kişiselleştirilmiş bütçe, yatırım önerileri ve risk profili sunuyor. Veriler MongoDB’de saklanıyor.
+### Finance Copilot – AI-Powered Personal Finance Assistant
+A financial assistant developed with Node.js, Python, and Google Gemini LLM. It analyzes bank statements (PDFs, images), classifies transactions, and visualizes expenses. The React.js dashboard provides personalized budgets, investment recommendations, and risk profiles. Data is stored in MongoDB.
 
-### LLM-Powered Natural Language to SQL Query Tool  
-Google Colab üzerinde Python kullanarak geliştirdiğim araç. Google Gemini LLM ile doğal dili SQL sorgularına çeviriyor ve kullanıcı tarafından yüklenen SQLite veritabanlarında çalıştırıyor. Çok dilli Gradio arayüzü ile SQL bilgisi olmayanlar için yapılandırılmış veri erişimini kolaylaştırıyor.
+### LLM-Powered Natural Language to SQL Query Tool
+This tool I developed using Python on Google Colab. Using Google Gemini LLM, it translates natural language into SQL queries and runs them on user-installed SQLite databases. The multilingual Gradio interface simplifies structured data access for those without SQL knowledge.
 
-### WatchHub Film Application (iOS Application)  
-Film fragmanlarını gezip yorum yapmaya olanak sağlayan full-stack mobil uygulama. React Native ve ASP.NET Core (MVC) kullanılarak geliştirildi, SQL veritabanı ile yönetildi ve AWS üzerinde ölçeklenebilir şekilde barındırıldı.
+### WatchHub Film Application (iOS Application)
+A full-stack mobile application that allows browsing and commenting on movie trailers. Developed using React Native and ASP.NET Core (MVC), managed with a SQL database, and hosted scalably on AWS.
 
-### UNO Card Game  
-Java ile nesne yönelimli programlama prensiplerini kullanarak geliştirdiğim masaüstü UNO oyunu. Grafiksel kullanıcı arayüzü, tam oyun mantığı ve etkileşimli oynanış sunan çalıştırılabilir uygulama olarak paketlendi.
-
----
-
-## 📈 GitHub İstatistiklerim  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetEfeErsoy&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmetEfeErsoy&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetEfeErsoy&layout=compact&theme=radical)  
+### UNO Card Game
+A desktop UNO game developed using object-oriented programming principles in Java. Packaged as an executable application that provides a graphical user interface, full game logic, and interactive gameplay.
 
 ---
 
-## 📫 İletişim  
-[LinkedIn](https://www.linkedin.com/in/ahmetefeersoy)  
-📧 ahmetefeersoy@example.com  
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetEfeErsoy&show_icons=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmetEfeErsoy&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetEfeErsoy&layout=compact&theme=radical)
 
 ---
 
-Teşekkürler, profilime göz attığınız için!  
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ahmetefeersoy)
+📧 ahmetefeersoy@example.com
+
+---
+
+Thanks for checking out my profile!
