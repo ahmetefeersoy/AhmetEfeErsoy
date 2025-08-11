@@ -54,7 +54,7 @@ A desktop UNO game developed using object-oriented programming principles in Jav
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/ahmetefeersoy)
+[LinkedIn](https://www.linkedin.com/in/ahmetefeersoy)  
 📧 ahmetefeersoy@gmail.com  
 📧 ahmetefeersoy8@gmail.com
 
