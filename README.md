@@ -30,6 +30,9 @@
 ### VoCal – AI-Powered Voice Appointment Assistant
 I developed a modular voice assistant in Python. It enables appointment scheduling using natural language, extracts key information such as date, time, and service, and saves it to the calendar with spoken feedback. It can be easily adapted to various fields such as healthcare, logistics, and maintenance.
 
+### Task Management App – Full-Stack Authentication & CRUD System  
+I developed a comprehensive task management application using modern web technologies. It features secure JWT authentication, complete CRUD operations for tasks, and real-time state management with Redux. The system includes form validation using Zod schemas, containerized deployment with Docker, and comprehensive API documentation with Swagger. Built with React/TypeScript frontend, Node.js/Express backend, PostgreSQL database, and Prisma ORM for seamless database operations.  
+
 ### Artificial Intelligence Supported Technology Management Platform
 This is my graduation project developed as part of the Turkish Aerospace Industries (TUSAŞ) Lift-Up program. The platform, developed with React.js and Node.js, allows users to add and rate technologies, and generate data visualization with infographics. Relevant web publications are filtered and presented using AI, LLM, and NLP.
 
