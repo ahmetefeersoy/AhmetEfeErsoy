@@ -18,10 +18,14 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** Python, Java, C#, JavaScript
-- **Framework & Platforms:** .NET, React, Node.js
+- **Programming Languages:** Python, Java, C#, JavaScript, TypeScript
+- **Framework & Platforms:** .NET, React, Node.js, Express.js, Vite , Redux Toolkit
 - **Databases:** SQL (MySQL, PostgreSQL, etc.), NoSQL (MongoDB, etc.)
-- **Other:** Docker, AWS (S3), Git, GitHub
+- **ORMs & Data Access:** Prisma, Entity Framework
+- **API Development:** RESTful APIs, Swagger/OpenAPI
+- **Form Validation:** React Hook Form, Zod
+- **DevOps & Deployment:** Docker, Docker Compose,
+- **Development Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
