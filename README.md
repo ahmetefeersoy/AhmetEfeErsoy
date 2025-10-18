@@ -19,9 +19,9 @@
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** Python, Java, C#, JavaScript, TypeScript
-- **Framework & Platforms:** .NET, React, Node.js, Express.js, Vite , Redux Toolkit
+- **Framework & Platforms:** Spring, .NET, React, Node.js, Express.js, Vite , Redux Toolkit
 - **Databases:** SQL (MySQL, PostgreSQL, etc.), NoSQL (MongoDB, etc.)
-- **ORMs & Data Access:** Prisma, Entity Framework
+- **ORMs & Data Access:** Prisma, Entity Framework , JPA
 - **API Development:** RESTful APIs, Swagger/OpenAPI
 - **Form Validation:** React Hook Form, Zod
 - **DevOps & Deployment:** Docker, Docker Compose,
