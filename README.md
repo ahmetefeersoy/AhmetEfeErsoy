@@ -2,16 +2,17 @@
 
 🎓 I graduated from TED University's Software Engineering Department (100% English) with high honors and a 3.56 GPA.  
 💼 I successfully completed and delivered the LLM-based AI-powered technology management platform I developed as part of the TUSAŞ Lift-Up Program.  
-🤖 I am passionate about Backend Development , Artificial Intelligence and Large Language Models (LLMs).  
+🤖 I’m passionate about backend engineering, microservices, distributed systems, and designing scalable architectures powered by modern AI technologies and Large Language Models (LLMs).    
 📍 I can live in Ankara and Kocaeli.
 
 ---
 
 ## 🚀 My Interests
 - Backend Development
-- Full-stack Development
-- Large Language Models (LLMs) & Artificial Intelligence Development
-- Agentic Systems
+- Event-Driven Microservices (Kafka, REST)  
+- Large Language Models (LLMs) & Artificial Intelligence Development  
+- Full-stack Development  
+- Agentic Systems  
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
 
@@ -21,6 +22,7 @@
 - **Programming Languages:** Python, Java, C#, JavaScript, TypeScript
 - **Framework & Platforms:** Spring, .NET, React, Node.js, Express.js, Vite , Redux Toolkit
 - **Databases:** SQL (MySQL, PostgreSQL, etc.), NoSQL (MongoDB, etc.)
+- **Pipelines & Automation:** Dagster  
 - **ORMs & Data Access:** Prisma, Entity Framework , JPA
 - **API Development:** RESTful APIs, Swagger/OpenAPI
 - **Form Validation:** React Hook Form, Zod
@@ -31,27 +33,75 @@
 
 ## 📌 Featured Projects
 
-### Order Event Processor – Event-Driven Microservices Architecture  
-Built an event-driven backend with Spring Boot, Kafka, and PostgreSQL to coordinate stock, payment, and notification microservices. Used Kafka topics for asynchronous communication and Docker for containerized deployment.  
+### 🚀 **SaaSly – Modular AI-Powered SaaS Tools Platform**  
+A modular SaaS platform offering multiple AI-powered utilities.  
+- Backend built with **Node.js, PostgreSQL, Prisma, Supabase**  
+- Supabase Auth for authentication & RBAC  
+- Scalable, multi-tool architecture  
+- LLM-powered tool integrations  
+- Premium-tier access system (in progress)
 
-### Task Management App – Full-Stack Authentication & CRUD System  
-I developed a comprehensive task management application using modern web technologies. It features secure JWT authentication, complete CRUD operations for tasks, and real-time state management with Redux. The system includes form validation using Zod schemas, containerized deployment with Docker, and comprehensive API documentation with Swagger. Built with React/TypeScript frontend, Node.js/Express backend, PostgreSQL database, and Prisma ORM for seamless database operations.  
+---
 
-### Artificial Intelligence Supported Technology Management Platform
-This is my graduation project developed as part of the Turkish Aerospace Industries (TUSAŞ) Lift-Up program. The platform, developed with React.js and Node.js, allows users to add and rate technologies, and generate data visualization with infographics. Relevant web publications are filtered and presented using AI, LLM, and NLP.
+### 📊 **Fund Data Platform – TEFAS Fund Analytics Pipeline**  
+An end-to-end automated fund analytics system.  
+- **Dagster** pipelines for ingestion, normalization, and scheduling  
+- **FastAPI** backend for fund performance & risk scoring  
+- Time-series optimized PostgreSQL schema  
+- Automated daily jobs for TEFAS data updates  
 
-### Finance Copilot – AI-Powered Personal Finance Assistant
-A financial assistant developed with Node.js, Python, and Google Gemini LLM. It analyzes bank statements (PDFs, images), classifies transactions, and visualizes expenses. The React.js dashboard provides personalized budgets, investment recommendations, and risk profiles. Data is stored in MongoDB.
+---
 
-### LLM-Powered Natural Language to SQL Query Tool
-This tool I developed using Python on Google Colab. Using Google Gemini LLM, it translates natural language into SQL queries and runs them on user-installed SQLite databases. The multilingual Gradio interface simplifies structured data access for those without SQL knowledge.
+### ⚙️ **Order Event Processor – Event-Driven Microservices Architecture**  
+Developed using **Spring Boot, Kafka, PostgreSQL**.  
+- Event-driven, asynchronous communication between services  
+- Stock, payment, and notification microservices  
+- Dockerized and scalable  
 
-### WatchHub Film Application (iOS Application)
-A full-stack mobile application that allows browsing and commenting on movie trailers. Developed using React Native and ASP.NET Core (MVC), managed with a SQL database, and hosted scalably on AWS.
+---
 
-### UNO Card Game
-A desktop UNO game developed using object-oriented programming principles in Java. Packaged as an executable application that provides a graphical user interface, full game logic, and interactive gameplay.
+### ✅ **Task Management App – Full-Stack Authentication & CRUD**  
+- JWT authentication & secure session handling  
+- CRUD operations with Prisma + PostgreSQL  
+- React/TypeScript + Redux Toolkit frontend  
+- Zod validation + Docker + Swagger  
 
+---
+
+### 🧠 **AI-Based Technology Management Platform (TUSAŞ)**  
+- Full-stack architecture with **React.js + Node.js**  
+- LLM/NLP-powered publication filtering & scoring  
+- Dashboard visualizations, infographics, and evaluation tools  
+
+---
+
+### 💰 **Finance Copilot – AI-Powered Personal Finance Assistant**  
+- Node.js + Python backend  
+- Google Gemini LLM for budgeting & financial insights  
+- PDF/image bank statement parsing  
+- MongoDB storage + React dashboard  
+
+---
+
+### 🗄️ **Natural Language → SQL Query Tool (LLM-Powered)**  
+- Python + Gemini LLM  
+- Converts natural language prompts into SQL queries  
+- Executes over SQLite databases  
+- Multilingual Gradio interface  
+
+---
+
+### 🎬 **WatchHub (iOS Application)**  
+- React Native + ASP.NET Core (MVC)  
+- SQL-based backend & AWS deployment  
+- Movie trailers, comments, and user interaction features  
+
+---
+
+### 🎮 **UNO Card Game (Java Desktop Application)**  
+A full desktop UNO game built with OOP principles.  
+- Developed using **Java Swing**  
+- Complete game logic and turn-based mechanics  
 ---
 
 ## 📈 My GitHub Stats
@@ -64,8 +114,6 @@ A desktop UNO game developed using object-oriented programming principles in Jav
 [LinkedIn](https://www.linkedin.com/in/ahmet-efe-ersoy-43115626b/)  
 📧 ahmetefeersoy@gmail.com  
 📧 ahmetefeersoy8@gmail.com
-
-
 
 ---
 
