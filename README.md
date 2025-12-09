@@ -105,8 +105,8 @@ A full desktop UNO game built with OOP principles.
 ---
 
 ## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats-five-flax-16.vercel.app/api?username=AhmetEfeErsoy&show_icons=true&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats-gamma-five.vercel.app?user=AhmetEfeErsoy&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetEfeErsoy&show_icons=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmetEfeErsoy&theme=radical)
 
 
 ---
